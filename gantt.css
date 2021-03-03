@@ -1,3 +1,7 @@
-#dashboard[view-type=Gantt] .at-chart>div {
+#dashboard .at-chart>div {
+    overflow: inherit;
+}
+
+.at-chart>div {
     overflow: inherit;
 }
